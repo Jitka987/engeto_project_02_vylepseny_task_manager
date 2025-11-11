@@ -1,7 +1,7 @@
 import db_Vylepseny_task_manager_project_02 as db
 
 LIBRARY="mysql"
-DB_PASSW="1111"
+DB_PASSW=">PASSWORD<"
 HOST="localhost"
 USER="root"
 DATABASE="project02"
